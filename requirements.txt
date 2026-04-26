@@ -1,0 +1,17 @@
+# Core Python libraries
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Model persistence
+joblib
+
+# Web framework
+flask
+
+# Optional: for visualization and debugging
+matplotlib
+seaborn

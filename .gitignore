@@ -1,0 +1,57 @@
+# =====================
+# Python cache files
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =====================
+# Jupyter Notebook checkpoints
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# Virtual environments
+# =====================
+venv/
+env/
+ENV/
+.venv/
+
+# =====================
+# VS Code settings
+# =====================
+.vscode/
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# Large dataset files (optional - uncomment if needed)
+# =====================
+# *.csv
+# *.xlsx
+# *.json
+
+# =====================
+# Model files (optional)
+# =====================
+*.pkl
+*.joblib
+
+# =====================
+# Environment variables
+# =====================
+.env
+
+C:\Users\Acer\academics\ml\brain_mri
+brain_mri/
